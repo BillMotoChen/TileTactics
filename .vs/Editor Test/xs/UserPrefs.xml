@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A011AD07-107D-AD6D-0C0A-2099B06AF364}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tiles/TileChanger.cs">
+    <Files>
+      <File FileName="Assets/Editor/LevelEditorWindow.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/LevelManagement/LevelLoader.cs" Line="25" Column="35" />
+      <File FileName="Assets/Resources/Levels/level.json" Line="26" Column="24" />
+      <File FileName="Assets/Scripts/LevelManagement/LevelData.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Tiles/TileChanger.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Editor Test" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="LevelManagement" expanded="True" />
+                <Node name="Tiles" expanded="True">
+                  <Node name="TileChanger.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="98034909-91c3-4964-a3b2-44df6d03c826" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

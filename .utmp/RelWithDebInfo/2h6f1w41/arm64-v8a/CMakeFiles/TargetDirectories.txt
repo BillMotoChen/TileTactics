@@ -1,0 +1,5 @@
+/Users/chenbenyuan/Unity/TileTactics/.utmp/RelWithDebInfo/2h6f1w41/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/chenbenyuan/Unity/TileTactics/.utmp/RelWithDebInfo/2h6f1w41/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/chenbenyuan/Unity/TileTactics/.utmp/RelWithDebInfo/2h6f1w41/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/chenbenyuan/Unity/TileTactics/.utmp/RelWithDebInfo/2h6f1w41/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/chenbenyuan/Unity/TileTactics/.utmp/RelWithDebInfo/2h6f1w41/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

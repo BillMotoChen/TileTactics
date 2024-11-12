@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{1942C531-B86D-EBD3-B1F2-E538F8521D08}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/SpriteInstantiator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelManagement/LevelLoader.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/Tiles/TileChanger.cs" Line="17" Column="29" />
+      <File FileName="Assets/Scripts/UI/GameUIController.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/Tiles/DevilTileChanger.cs" Line="205" Column="14" />
+      <File FileName="Assets/Scripts/UI/GameUIButtonController.cs" Line="11" Column="39" />
+      <File FileName="Assets/Scripts/LevelManagement/LevelData.cs" Line="5" Column="15" />
+      <File FileName="Assets/Scripts/DataManagement/UserData.cs" Line="120" Column="46" />
+      <File FileName="Assets/Scripts/DataManagement/PlayerPrefData.cs" Line="11" Column="6" />
+      <File FileName="Assets/Scripts/UI/HomeUIButtonController.cs" Line="288" Column="42" />
+      <File FileName="Assets/Scripts/UI/CommonUIController.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/UI/EnergyManager.cs" Line="24" Column="18" />
+      <File FileName="Assets/Scripts/UI/ShopManager.cs" Line="44" Column="9" />
+      <File FileName="Assets/Scripts/Tiles/ItemManager.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/LevelManagement/DevilLevelLoader.cs" />
+      <File FileName="Assets/Resources/Levels/devil.json" Line="25" Column="15" />
+      <File FileName="Assets/Scripts/UI/DevilGameUIButtonController.cs" Line="21" Column="104" />
+      <File FileName="Assets/Scripts/Tiles/DevilItemManager.cs" Line="29" Column="16" />
+      <File FileName="Assets/Scripts/UI/SpriteInstantiator.cs" Line="22" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TileTactics" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DataManagement" expanded="True" />
+                <Node name="LevelManagement" expanded="True" />
+                <Node name="Tiles" expanded="True" />
+                <Node name="UI" expanded="True">
+                  <Node name="SpriteInstantiator.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d372d60-694c-448c-8cf2-5b4079ebad10" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
